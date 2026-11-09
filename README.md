@@ -39,3 +39,4 @@ El valor debe coincidir con la lÃ­nea correspondiente de `SHA256SUMS.txt` (for
 ---
 
 Publicado automÃ¡ticamente por la CI de Nexta. Este archivo se mantiene en el repositorio de origen.
+- `agent-latest.json` (raíz del repositorio) es el manifiesto que lee la app para ofrecer el instalador; lo actualiza la CI en cada etiqueta `agent-*`.
